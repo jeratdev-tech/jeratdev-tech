@@ -5,7 +5,7 @@
 - 💼 I've built projects like an **eCommerce app (SwiftMall)** and a **School Management System**.
 - 💞️ I’m looking to collaborate on open-source front-end projects and anything JavaScript/React-related.
 - 📫 How to reach me:  
-  [📧 stephen.jeratdev@gmail.com](mailto:stephen.jeratdev@gmail.com)  
+  [📧 stephen.mailtostephen01@gmail.com](mailto:stephen.jeratdev@gmail.com)  
   [🐦 Twitter/X: @jeratdev](https://twitter.com/jeratdev)  
   [🌐 Portfolio: Coming Soon!]
 - 😄 Pronouns: He/Him
