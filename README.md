@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Stephen James (a.k.a @jeratdev-tech)
+# 👋 Hi there, I’m Stephen James (a.k.a codebyjerat)
 
 - 👀 I’m interested in web development, front-end technologies, and building clean, user-friendly UIs.
 - 🌱 I’m currently learning **React** and diving deeper into **JavaScript**.
