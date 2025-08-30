@@ -26,6 +26,6 @@
 
 🐦 Twitter/X: coming soon
 
-🌐 Portfolio: coming soon
+🌐 Portfolio: [🔗 **Live Portfolio**](https://stephen-portfolio-cyan.vercel.app)
 
 ⚡ Fun fact: I’m building my career one component at a time — code, content, and consistency.
