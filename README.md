@@ -7,8 +7,6 @@
 
 🚀 Built projects like:
 
-🛒 SwiftMall – a modern eCommerce app
-
 🎓 School Management System – managing admin & student workflows
 
 🎯 2025 Goal: Grow as a React developer, land impactful collaborations, and hit my milestone of ₦50 million through code + freelancing.
